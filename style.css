@@ -1,0 +1,30 @@
+body {
+    width: 1400px;
+    background: linear-gradient(215deg, #71b073 29.9%, #38b1ff 120%);
+    height: 700px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+table tr td {
+    border: 1px solid black;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+table tr td.header {
+    background-color: rgb(209, 197, 197);
+}
+
+.sub {
+    background: #5d915f;
+    border: 2px solid #5d915f;
+}
+
+.title {
+    border: 2px solid white;
+    background: white;
+    width: 50%;
+    margin-left: 350px;
+}
